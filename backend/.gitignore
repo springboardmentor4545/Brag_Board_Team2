@@ -1,0 +1,16 @@
+.env
+/node_modules
+
+.venv
+
+
+# Prevent secrets from committing
+.env
+
+# Prevent pycache committing
+__pycache__/
+*.pyc
+
+# Prevent IDE & OS files
+.DS_Store
+.vscode/
