@@ -10,7 +10,7 @@ By centralizing recognition, BragBoard fosters a culture of visibility and appre
 
 You can check out the deployed version of BragBoard here:
 
-**[BragBoard Live Application](https://brag-board-team.vercel.app/)**
+**[BragBoard Live Application](brag-board-team.vercel.app/)**
 
 ## ✨ Key Features
 
